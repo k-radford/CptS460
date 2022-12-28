@@ -1,0 +1,57 @@
+CS 460 LAST DEMO RECORD   NAME___Kate Radford________________ ID_______________
+
+===========================================================================
+1. Fill in your name, ID and return this form to TA by 4-29-2021
+2. DO on-line course evaluation
+3. BEFORE the DEMO, submit a   LASTNAME.zip  file to TA
+4. Demo LAST assignment to TA. He will record your performance on YOUR form 
+5. Interview with KCW immediately after demo to TA
+============================================================================
+
+ Commands             Expected Results                 Observed & Comments
+-------------    --------------------------------    -----------------------
+1. Boot up     :  P1 (init) create logins          __________________________
+
+2. login:      :  login from tty0                  ___________________________
+
+3.             :  login from ttyS0, ttyS1          ___________________________
+
+               :  logout; login again              ___________________________
+
+sh: Control-C  :  sh must not die                  ___________________________
+
+4. ls          :  SAME as ls -l in Linux           ___________________________ 
+
+5. cat         : show input lines from stdin:     ____________________________
+
+6. cat f       : show contents of file f           ___________________________ 
+
+7. cat f1 > f2 
+   ls          : f1, f2 MUST be same size         ____________________________
+
+8  grep abcd    :  grep for abcd from stdin
+
+9. grep print f : show lines with "print" ONLY   ____________________________ 
+
+10. more f      : MUST pause after display ONE screen
+                : Enter key: advance by line 
+                : SPACE key: advance by screen    _____________________________
+
+11. cat f | more : MUST PAUSE for Enter/Space keys ____________________________
+
+
+12. cat f | grep printf : show lines with printf  ______________________________
+
+
+13. cat f | l2u | grep LINE:  2 pipes         __________________________________
+
+
+14. cat f | cat | l2u | grep LINE: 3 PIPEs ________________________________
+
+
+15. cat < f | cat | grep print > out :    __________________________________
+    cat out (must see out contents)       __________________________________
+
+16. cp f g; ls :   show f and g SAME size   __________________________________
+
+===========================================================================
