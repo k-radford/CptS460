@@ -9,13 +9,11 @@
 Design and implement a REAL embedded operating system
 
 ## Resources
-[Website](https://eecs.wsu.edu/~cs460/ "eecs.wsu.edu/~cs460/")
 
-[Samples & Base Code](https://eecs.wsu.edu/~cs460/samples/ "eecs.wsu.edu/~cs460/samples/")
-
-[Embedded and Real-time Operating Systems](url)
-
-[Design and Implementation of the MTX Operating System](url)
+* [Website](https://eecs.wsu.edu/~cs460/ "eecs.wsu.edu/~cs460/")
+* [Samples & Base Code](https://eecs.wsu.edu/~cs460/samples/ "eecs.wsu.edu/~cs460/samples/")
+* Embedded and Real-time Operating Systems by K.C. Wang
+* Design and Implementation of the MTX Operating System by K.C. Wang
 
 
 ## Labs
@@ -23,7 +21,7 @@ Design and implement a REAL embedded operating system
 1. [Booter](./LAB1)
 2. [LCD Driver](./LAB2)
 3. [Timer and KBD Drivers](./LAB3)
-4. Midterms
+4. [Midterm](./Midterm)
 5. [User Mode Commands and Syscalls](./LAB5)
 6. [Fork & Exec](./LAB6)
 7. [Buffer Management](./LAB7)
@@ -32,7 +30,7 @@ Design and implement a REAL embedded operating system
 ## Last Assignment
 
 ### Objective
-Develop our own User Command Programs
+Develop our own User Command Program
 
 ### Requirements
 
